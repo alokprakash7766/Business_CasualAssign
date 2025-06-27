@@ -1,0 +1,33 @@
+body {
+  background: url("bg.jpg");
+}
+
+.box1 {
+  background: white;
+  height: 110%;
+  width: 95%;
+  margin-left: 2.5rem;
+}
+.image{
+      height:90%;
+      width: 98%;
+}
+.hr{
+      width: 14%;
+      margin-left: 43%;
+}
+.para{
+      margin-left: 43%;
+      font-size: larger;
+}
+.hr2{
+      width: 38%;
+      margin-left: 35%;
+}
+.hr3{
+      width: 32%;
+      margin-left: 35%;
+}
+.para1{
+      margin-left:30% ;
+}
